@@ -1,0 +1,236 @@
+~ TOUHOU IN SPACE ~ (Working Title)
+
+
+Story
+	Backstory:
+	The sun, moon, and planets are going crazy! The sun will be up one second, and then suddenly it will be night!
+	The girls go out to investigate, because that's what they do. They decide to bring along partners to help with their
+	travels, because space travel is hard.
+	Story during the Game:
+		Reimu Yukari Scenario:
+			
+		Reimu Suika Scenario:
+			
+		Marisa Nitori Scenario:
+			
+		Marisa Aya Scenario:
+			
+		Sakuya Patchy Scenario:
+			
+		Sakuya Eirin Scenario:
+			
+		
+	
+Characters
+
+	Playable Characters
+	
+	Reimu Hakurei
+		Partners:
+			Yukari Yakumo -
+				Unfocused Shot-type: Forward-Focus
+				Focused Shot-type: Homing
+				Bomb: Border Sign "Quadruple Barrier"
+				Team Name: Boundry Breaking Shrine Maiden
+				
+			Suika Ibuki -
+				Unfocused Shot-type: Homing
+				Focused Shot-type: Spread
+				Bomb: Oni Sign "Complete Massacre on Mt. Ooe"
+				Team Name: Fantastic Drunken Shrine Maiden
+				
+	Marisa Kirisame
+		Partners:
+			Nitori Kawashiro -
+				Unfocused Shot-type: Forward-Focus
+				Focused Shot-type: Homing
+				Bomb: Drown "Trauma in The Glimmering Depths"
+				Team Name: Ordinary Magician Warhead
+				
+			Aya Shameimaru -
+				Unfocused Shot-type: Spread
+				Focused Shot-type: Forward-Focus
+				Bomb: Blockade Sign "Terukuni Throughout the World"
+				Team Name: Stardust Reporter of Dreams
+				
+	Sakuya Izayoi
+		Partners:
+			Patchouli Knowledge -
+				Unfocused Shot-type: Spread
+				Focused Shot-type: Homing
+				Bomb: Fire Water Wood Metal Earth Sign "Philosopher's Stone"
+				Team Name: Unmoving Time Library
+				
+			Eirin Yagokoro -
+				Unfocused Shot-type: Forward-Focus
+				Focused Shot-type: V-shaped
+				Bomb: "Heaven Spider's Butterfly-Capturing Web"
+				Team Name: Maid of the Moon
+				
+	Bosses
+	
+	Kirara Choko
+		Ability: Manipulation of Chocolate
+		Nickname: 
+		Species: Nekomata
+		Design: She has orange hair with a small white triangle right in the center that points to her nose. She's 
+		wearing clothes similar to Nazarin's, but with a red neckpiece thing and a greyish dress that reaches to her 
+		ankles. She's holding a chocolate bar that's partially in it's wrapper. She has deep red eyes.
+		Personality:
+		
+	Suzume Takemori
+		Ability: Manipulation of Movement
+		Nickname: 
+		Species: Tengu
+		Design: 
+		Personality:
+		
+	Harumichi Junko
+		Ability: Manipulation of Aerodynamics/Atmosphere
+		Nickname: 
+		Species: Youkai
+		Design: 
+		Comments:
+			"you have weather on the bottom layer
+			then meteors
+			then the ozone layer where UV becomes deadly
+			then the aurorae
+
+			"the ISS is higher than the atmosphere
+			(for the most part)
+			so after you beat the third stage boss
+			the ISS just comes out of nowhere and tries to ram you
+			like a one off thing
+			the size of Unzan's fist or so"
+		Personality:
+
+
+	Mitsuko Omoiki
+		Ability: Manipulation of Matter
+		Nickname: 
+		Species: Oni
+		Design: 
+		Personality:
+		
+	Satori Asakura
+		Ability: Manipulation of Physics
+		Nickname: 
+		Species: Lunarian
+		Design: 
+		Personality:
+		
+	Haruzuki Hayabusani
+		Ability: Manipulation of the Extraterrestrial
+		Nickname: 
+		Species: Godess
+		Design: Dressed in robes sort of like Kaguya's, but black with white frills on the arms and bottom of the robes.
+				The robes are embroidered with THE STARS THEMSELVES! Just dimmed down. She has a hair-bow colored white and yellow,
+				like the sun and the moon. She has a small sun and moon orbiting her in her cutout. She's holding a
+				small wooden rod with a wispy gas emiting from it, which is likely a galaxy in the making. She also 
+				has hazel eyes and black hair that's similar to Kaguya's that reaches down to her hips.
+		Comments:
+			"I think her black hair might not show up against the dress
+			[3/24/2014 11:56:08 PM] Toyguin: Oh yeah, true...
+			[3/24/2014 11:56:34 PM] Starfries: I could make it really dark brown but I think some other colour would look good too
+			[3/24/2014 11:56:36 PM] Toyguin: Perhaps... A deep blue for the dress?
+			what about instead of a rod, a little paintbrush, like she's painting the stars
+			[3/24/2014 11:57:55 PM] Toyguin: I like this idea. Reminds me of Okami, in a way.
+			[3/24/2014 11:57:56 PM] Starfries: I'm thinking she'd do like a big sweep and draw the milky way
+			[3/24/2014 11:58:55 PM] Starfries: and the little stars on her dress could be little drops of star that she got on herself by accident
+			[3/24/2014 11:59:17 PM] Toyguin: Haha, I like it.
+			[3/24/2014 11:59:24 PM] Starfries: I like the idea that she makes stars and galaxies
+			[3/24/2014 11:59:29 PM] Starfries: real goddess stuff
+			[12:02:39 AM] Starfries: I like the artist twist actually
+			[12:02:49 AM] Starfries: the idea that she paints the sky and it becomes real
+			[12:03:06 AM] Starfries: I don't think any touhou character has something like that
+			[12:03:16 AM] Toyguin: Yeah, I like it too. I've actually got more ideas for spellcards now! Hecks yeah!
+			[12:03:21 AM] Starfries: sweet!
+			[12:04:01 AM] Toyguin: I mean, my primary idea was just space phenomena, solar flares, black holes, but now, I've got freaking art to add into the idea.
+			[12:04:08 AM] Starfries: hehe
+			[12:04:14 AM] Starfries: it's got a cool mystical feel to it
+			[12:04:18 AM] Starfries: like a creation myth
+			"
+		Painted Space "Drops of Stars"
+
+Personality:
+		
+	Dawn Greene
+		Ability: Manipulation of Energy
+		Nickname: 
+		Species: Human
+		Design: 
+		Personality:
+		
+Level/environment design
+	Stage 1:
+		Location - Bamboo Forest of The Lost
+		Title - Strange Encounter
+		Midboss - Kirara Choko
+		Boss - Kirara Choko
+		
+	Stage 2:
+		Location - Eientei, Hallway to Space
+		Title - Moon's Hallway
+		Midboss - Kirara Choko
+		Boss - Suzume Takemori
+			
+	Stage 3:
+		Location - Above Gensokyo
+		Title - Mesospheric Gensokyo
+		Midboss - Harumichi Junko
+		Boss - Harumichi Junko
+				
+	Stage 4:
+		Location - Above Earth
+		Title - The Blue Marble
+		Midboss - Mitsuko Omoiki
+		Boss -  Mitsuko Omoiki
+				
+	Stage 5:
+		Location - Above the Moon
+		Title - Lunatic Cage
+		Midboss - Satori Asakura
+		Boss - Satori Asakura
+		
+		Mass-Energy Equivalence - based on the idea that you can turn matter into energy and back
+		A laser that stops just short of the player and turns into bullets
+		Alternatively a laser that fires past the player and creates bullets where it hits the edge of the screen
+
+		Nucleosynthesis - based on the idea of synthesizing new elements through nuclear fusion
+		Bullets come from the all sides in a crisscrossing pattern and when they touch each other they turn into a bigger bullet
+
+		Vacuum Fluctuation - based on the idea of virtual particles that appear and disappear constantly throughout space
+		Pairs of bullets appear out of nothing, spin around, come back together and disappear.  Happens all over the screen though there is a small shadow to indicate when bullets are going to appear
+
+		Cosmic Microwave Background - the radiation left over the the beginning of the universe
+		Hyperbolic Geometry/Negative Curvature - what happens when your universe contains a lot of dark energy; it basically opposes gravity and tends to rip the universe apart on a large scale
+		Dark Matter - most people of heard of this one; gravity and mass where you can't see it
+		Maxwell's Demon - a theoretical/imaginary device that can reverse entropy by allowing only certain types of particles through
+		basically a border card like Reimu's
+
+		Stellar Evolution
+		based on the idea of the death of a star; the star expands and gets bigger and bigger... and then suddenly collapses and explodes in a supernova
+		maybe too similar to Okuu's last card
+
+	Stage 6:
+		Location - Outerspace (Likely flying past Mars.)
+		Title - Unidentified, Flying, Fantastic Object
+		Midboss - Satori Asakura
+		Boss - Haruzuki Hayabusani
+				
+	Stage EX:
+		Location - Above all the planets, then the Milky Way
+		Title - Strange Anomoly
+		Midboss - Kirara Choko
+		Boss - Dawn Greene
+				
+Gameplay
+	Like a typical Touhou game. No gimmicks or anything. Classic shm'up style.
+Art
+	
+Sound and Music
+	
+User Interface, Game Controls
+
+	Game Controls
+		Normal Touhou controls.
