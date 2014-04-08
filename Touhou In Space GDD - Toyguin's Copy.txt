@@ -1,0 +1,179 @@
+~ TOUHOU IN SPACE ~ (Working Title)
+
+
+Story
+	Backstory:
+	The sun, moon, and planets are going crazy! The sun will be up one second, and then suddenly it will be night!
+	The girls go out to investigate, because that's what they do. They decide to bring along partners to help with their
+	travels, because space travel is hard.
+	Story during the Game:
+		Reimu Yukari Scenario:
+			
+		Reimu Suika Scenario:
+			
+		Marisa Nitori Scenario:
+			
+		Marisa Aya Scenario:
+			
+		Sakuya Patchy Scenario:
+			
+		Sakuya Eirin Scenario:
+			
+		
+	
+Characters
+
+	Playable Characters
+	
+	Reimu Hakurei
+		Partners:
+			Yukari Yakumo -
+				Unfocused Shot-type: Forward-Focus
+				Focused Shot-type: Homing
+				Bomb: Border Sign "Quadruple Barrier"
+				Team Name: Boundry Breaking Shrine Maiden
+				
+			Suika Ibuki -
+				Unfocused Shot-type: Homing
+				Focused Shot-type: Spread
+				Bomb: Oni Sign "Complete Massacre on Mt. Ooe"
+				Team Name: Fantastic Drunken Shrine Maiden
+				
+	Marisa Kirisame
+		Partners:
+			Nitori Kawashiro -
+				Unfocused Shot-type: Forward-Focus
+				Focused Shot-type: Homing
+				Bomb: Drown "Trauma in The Glimmering Depths"
+				Team Name: Ordinary Magician Warhead
+				
+			Aya Shameimaru -
+				Unfocused Shot-type: Spread
+				Focused Shot-type: Forward-Focus
+				Bomb: Blockade Sign "Terukuni Throughout the World"
+				Team Name: Stardust Reporter of Dreams
+				
+	Sakuya Izayoi
+		Partners:
+			Patchouli Knowledge -
+				Unfocused Shot-type: Spread
+				Focused Shot-type: Homing
+				Bomb: Fire Water Wood Metal Earth Sign "Philosopher's Stone"
+				Team Name: Unmoving Time Library
+				
+			Eirin Yagokoro -
+				Unfocused Shot-type: Forward-Focus
+				Focused Shot-type: V-shaped
+				Bomb: "Heaven Spider's Butterfly-Capturing Web"
+				Team Name: Maid of the Moon
+				
+	Bosses
+	
+	Kirara Choko
+		Ability: Manipulation of Chocolate
+		Nickname: 
+		Species: Nekomata
+		Design: She has orange hair with a small white triangle right in the center that points to her nose. She's 
+		wearing clothes similar to Nazarin's, but with a red neckpiece thing and a greyish dress that reaches to her 
+		ankles. She's holding a chocolate bar that's partially in it's wrapper. She has deep red eyes.
+		Personality:
+		
+	Suzume Takemori
+		Ability: Manipulation of Movement
+		Nickname: 
+		Species: Tengu
+		Design: 
+		Personality:
+		
+	Harumichi Junko
+		Ability: Manipulation of Aerodynamics
+		Nickname: 
+		Species: Youkai
+		Design: 
+		Personality:
+		
+	Mitsuko Omoiki
+		Ability: Manipulation of Matter
+		Nickname: 
+		Species: Oni
+		Design: 
+		Personality:
+		
+	Michiko Asakura
+		Ability: Manipulation of Physics
+		Nickname: 
+		Species: Lunarian
+		Design: 
+		Personality:
+		
+	Haruzuki Hayabusani
+		Ability: Manipulation of the Extraterrestrial
+		Nickname: 
+		Species: Godess
+		Design: Dressed in robes sort of like Kaguya's, but black with white frills on the arms and bottom of the robes.
+				The robes are embroidered with THE STARS THEMSELVES! Just dimmed down. She has a hair-bow colored white and yellow,
+				like the sun and the moon. She has a small sun and moon orbiting her in her cutout. She's holding a
+				small wooden rod with a wispy gas emiting from it, which is likely a galaxy in the making. She also 
+				has hazel eyes and black hair that's similar to Kaguya's that reaches down to her hips.
+		Personality:
+		
+	Dawn Greene
+		Ability: Manipulation of Energy
+		Nickname: 
+		Species: Human
+		Design: 
+		Personality:
+		
+Level/environment design
+	Stage 1:
+		Location - Bamboo Forest of The Lost
+		Title - Strange Encounter
+		Midboss - Kirara Choko
+		Boss - Kirara Choko
+		
+	Stage 2:
+		Location - Eientei, Hallway to Space
+		Title - Moon's Hallway
+		Midboss - Kirara Choko
+		Boss - Suzume Takemori
+			
+	Stage 3:
+		Location - Above Gensokyo
+		Title - Mesospheric Gensokyo
+		Midboss - Harumichi Junko
+		Boss - Harumichi Junko
+				
+	Stage 4:
+		Location - Above Earth
+		Title - The Blue Marble
+		Midboss - Harumichi Junko
+		Boss -  Mitsuko Omoiki
+				
+	Stage 5:
+		Location - Above the Moon
+		Title - Lunatic Cage
+		Midboss - Michiko Asakura
+		Boss - Michiko Asakura
+				
+	Stage 6:
+		Location - Outerspace (Likely flying past Mars.)
+		Title - Unidentified, Flying, Fantastic Object
+		Midboss - Michiko Asakura
+		Boss - Haruzuki Hayabusani
+				
+	Stage EX:
+		Location - Above all the planets, then the Milky Way
+		Title - Strange Anomoly
+		Midboss - Kirara Choko
+		Boss - Dawn Greene
+				
+Gameplay
+	Like a typical Touhou game. No gimmicks or anything. Classic shm'up style.
+Art
+	
+Sound and Music
+	
+User Interface, Game Controls
+
+	Game Controls
+		Normal Touhou controls.
