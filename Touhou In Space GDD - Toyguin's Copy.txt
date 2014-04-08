@@ -28,8 +28,8 @@ Characters
 	Reimu Hakurei
 		Partners:
 			Yukari Yakumo -
-				Unfocused Shot-type: Forward-Focus
-				Focused Shot-type: Homing
+				Unfocused Shot-type: Homing
+				Focused Shot-type: Forward-Focus
 				Bomb: Border Sign "Quadruple Barrier"
 				Team Name: Boundry Breaking Shrine Maiden
 				
@@ -43,7 +43,7 @@ Characters
 		Partners:
 			Nitori Kawashiro -
 				Unfocused Shot-type: Forward-Focus
-				Focused Shot-type: Homing
+				Focused Shot-type: Aimed
 				Bomb: Drown "Trauma in The Glimmering Depths"
 				Team Name: Ordinary Magician Warhead
 				
@@ -63,7 +63,7 @@ Characters
 				
 			Eirin Yagokoro -
 				Unfocused Shot-type: Forward-Focus
-				Focused Shot-type: V-shaped
+				Focused Shot-type: Criss-cross V shaped (Two slightly off-set shot positions, for the criss-crossing
 				Bomb: "Heaven Spider's Butterfly-Capturing Web"
 				Team Name: Maid of the Moon
 				
